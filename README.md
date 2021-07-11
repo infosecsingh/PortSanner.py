@@ -20,6 +20,7 @@ Scan network Usage: ./portscanner.py [network] [start port] [end port] -n Exampl
 * pip install sys
 * pip install pyfiglet
 * git clone git@github.com:infosecsingh/PortSanner.py.git cd PortScanner.py 
+* chmod +x PortScanner.py
 * python PortScanner.py <IP> 1-1000 
 
   
